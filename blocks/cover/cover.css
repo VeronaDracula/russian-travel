@@ -1,0 +1,19 @@
+.cover {
+    background-image: url("../../images/cover-trains.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 62.5vw;
+    position: relative;
+}
+
+.cover::before {
+    background-color: #2A2C2F;
+    opacity: 0.3;
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
