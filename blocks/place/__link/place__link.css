@@ -8,3 +8,8 @@
     padding: 0 16px;
     margin: 0;
 }
+
+.place__link:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}

@@ -17,3 +17,8 @@
     right: 0;
     bottom: 0;
 }
+
+.cover:hover::before {
+    opacity: 0.8;
+    cursor: pointer;
+}
