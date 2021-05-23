@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="532b9ca6-dabf-409d-ace3-f2ac9493bc49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__menu-item-link/footer__menu-item-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__menu-item-link/footer__menu-item-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__menu-item/footer__menu-item.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__menu-item/footer__menu-item.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__menu/footer__menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__menu/footer__menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621668629516</updated>
-      <workItem from="1621668630586" duration="40888000" />
+      <workItem from="1621668630586" duration="42245000" />
     </task>
     <task id="LOCAL-00001" summary="creature files index and style">
       <created>1621669294307</created>
@@ -167,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621779535054</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="media screen and (min-width: 768px)">
+      <created>1621780002432</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1621780002432</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,17 +194,18 @@
     <MESSAGE value="links" />
     <MESSAGE value="@media screen and (min-width: 768px)" />
     <MESSAGE value="@media screen and (min-width: 768px) places" />
-    <option name="LAST_COMMIT_MESSAGE" value="@media screen and (min-width: 768px) places" />
+    <MESSAGE value="media screen and (min-width: 768px)" />
+    <option name="LAST_COMMIT_MESSAGE" value="media screen and (min-width: 768px)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621672000908">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1621672000908" />
-    <state x="697" y="0" key="CommitChangelistDialog2" timestamp="1621779534545">
+    <state x="697" y="0" key="CommitChangelistDialog2" timestamp="1621780002022">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="697" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621779534545" />
+    <state x="697" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621780002022" />
     <state x="548" y="165" key="FileChooserDialogImpl" timestamp="1621671999012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
