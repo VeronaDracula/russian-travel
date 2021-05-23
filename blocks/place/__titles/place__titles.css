@@ -13,3 +13,9 @@
         gap: 32px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .place__titles {
+        gap: 40px;
+    }
+}

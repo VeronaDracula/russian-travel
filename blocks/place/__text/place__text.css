@@ -21,5 +21,12 @@
 @media screen and (min-width: 1024px) {
     .place__text {
         font-size: 18px;
+        margin: 0 0 27px 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .place__text {
+        margin: 0 0 26px 0;
     }
 }

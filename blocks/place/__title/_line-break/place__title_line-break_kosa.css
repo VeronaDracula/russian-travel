@@ -8,3 +8,9 @@
     }
 }
 
+@media screen and (min-width: 1280px) {
+    .place__title_line-break_kosa {
+        width: 460px;
+    }
+}
+
