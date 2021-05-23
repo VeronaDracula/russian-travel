@@ -17,6 +17,14 @@
 
 @media screen and (min-width: 1024px) {
     .lead__image-caption {
-        padding-left: 48px;
+        max-width: 928px;
+        padding: 0;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__image-caption {
+        max-width: 986px;
     }
 }

@@ -23,3 +23,11 @@
         padding: 0 192px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .lead__subtitle {
+        padding: 0 280px;
+        width: 640px;
+        margin: 0 auto 64px auto;
+    }
+}
