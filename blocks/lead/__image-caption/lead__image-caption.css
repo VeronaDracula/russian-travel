@@ -8,3 +8,9 @@
     margin: 0;
     padding-left: 16px;
 }
+
+@media screen and (min-width: 768px) {
+    .lead__image-caption {
+        padding-left: 24px;
+    }
+}

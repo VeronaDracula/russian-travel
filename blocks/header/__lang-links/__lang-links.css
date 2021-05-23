@@ -6,3 +6,9 @@
     top: 14px;
     display: flex;
 }
+
+@media screen and (min-width: 768px) {
+    .header__lang-links {
+        top: 18px;
+    }
+}
