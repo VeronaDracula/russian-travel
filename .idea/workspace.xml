@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621668629516</updated>
-      <workItem from="1621668630586" duration="57234000" />
+      <workItem from="1621668630586" duration="57554000" />
     </task>
     <task id="LOCAL-00001" summary="creature files index and style">
       <created>1621669294307</created>
@@ -309,15 +309,27 @@
       <option name="project" value="LOCAL" />
       <updated>1621802421922</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="lead">
+      <created>1621802773218</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1621802773218</updated>
+    </task>
+    <task id="LOCAL-00038" summary=" lead no-flex">
+      <created>1621802858923</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1621802858923</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="intro" />
-    <MESSAGE value="photo-grid" />
     <MESSAGE value="places" />
     <MESSAGE value="cover" />
     <MESSAGE value="footer" />
@@ -341,7 +353,9 @@
     <MESSAGE value="lead__title" />
     <MESSAGE value="min-width: 1280px header, footer, cover" />
     <MESSAGE value="min-width: 1280px header, footer, cover, grid-photo" />
-    <option name="LAST_COMMIT_MESSAGE" value="min-width: 1280px header, footer, cover, grid-photo" />
+    <MESSAGE value="lead" />
+    <MESSAGE value=" lead no-flex" />
+    <option name="LAST_COMMIT_MESSAGE" value=" lead no-flex" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621672000908">
@@ -352,22 +366,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="531" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1621799686676" />
-    <state x="637" y="0" key="CommitChangelistDialog2" timestamp="1621802421494">
+    <state x="637" y="0" key="CommitChangelistDialog2" timestamp="1621802858478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="637" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621802421494" />
+    <state x="637" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1621802858478" />
     <state x="548" y="165" key="FileChooserDialogImpl" timestamp="1621671999012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="548" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621671999012" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621802427330">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1621802861680">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621802427330" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621801589899">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1621802861680" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621802977723">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1621801589899" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1621802977723" />
     <state x="0" y="0" width="1285" height="810" key="dock-window-1" timestamp="1621672001264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
