@@ -4,12 +4,12 @@
 
 @media screen and (min-width: 1024px) {
     .place__title_line-break_baikal {
-        width: 440px;
+        max-width: 440px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place__title_line-break_baikal {
-        width: 460px;
+        max-width: 460px;
     }
 }
