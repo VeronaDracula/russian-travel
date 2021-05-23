@@ -2,7 +2,8 @@
     .place__titles {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 28px;
+        gap: 32px;
         margin-bottom: 48px;
+        align-items: flex-end;
     }
 }
