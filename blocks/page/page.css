@@ -1,20 +1,6 @@
-@font-face {
-    src: url(../../fonts/Inter-Regular.woff);
-    font-family: 'Inter-Regular';
-}
-
-@font-face {
-    src: url(../../fonts/Inter-Black.woff);
-    font-family: 'Inter-Black';
-}
-
-@font-face {
-    src: url(../../fonts/Inter-Bold.woff);
-    font-family: 'Inter-Bold';
-}
 .page {
     background: #2A2C2F;
-    font-family: 'Inter-Regular', sans-serif;
+    font-family: 'Inter', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
