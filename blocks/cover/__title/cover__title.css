@@ -20,3 +20,9 @@
         max-width: 560px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .cover__title {
+        padding-top: 245px;
+    }
+}
